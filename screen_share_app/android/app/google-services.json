@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162050623769",
+    "project_id": "screenshareappv2-def07",
+    "storage_bucket": "screenshareappv2-def07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162050623769:android:0400ea596f571499fe5d88",
+        "android_client_info": {
+          "package_name": "com.example.screen_share_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh2twDgOa-uQwTkro8VFnY4H1UKasEfKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
